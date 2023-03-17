@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Counter Remover
 // @namespace    http://vk.com/just_sh1ne
-// @version      1.0.4
+// @version      1.0.5
 // @description  The script removes the number of notifications from the title
 // @author       Magikman008
 // @match        https://www.youtube.com/*
@@ -13,7 +13,7 @@
 
 {
   "name": "Counter Remover",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "The script removes the number of notifications from the title",
   "author": "Magikman008",
   "update_url": "https://github.com/Magikman008/Counter-Remover/raw/main/Counter%20Remover.user.js"
