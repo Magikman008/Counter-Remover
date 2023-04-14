@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Counter Remover
 // @namespace    http://vk.com/just_sh1ne
-// @version      1.0.5
+// @version      1.0.6
 // @description  The script removes the number of notifications from the title
 // @author       Magikman008
 // @match        https://www.youtube.com/*
@@ -9,6 +9,7 @@
 // @downloadURL  https://github.com/Magikman008/Counter-Remover/raw/main/Counter%20Remover.user.js
 // @updateURL    https://github.com/Magikman008/Counter-Remover/raw/main/Counter%20Remover.meta.js
 // @grant        none
+// @run-at       document-end
 // ==/UserScript==
 
 window.onload = function() {
