@@ -14,7 +14,7 @@
 
 {
   "name": "Counter Remover",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "The script removes the number of notifications from the title",
   "author": "Magikman008",
   "update_url": "https://github.com/Magikman008/Counter-Remover/raw/main/Counter%20Remover.user.js"
